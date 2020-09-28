@@ -1,0 +1,3 @@
+name: photo_manager
+dependencies:
+  - python=3.8
